@@ -64,8 +64,7 @@ Für weitere Informationen empfehlen wir den
 
    wird zu
 
-   # Überschrift
-
+   <h1> Überschrift
 - Listen können mit einem `- ` vor jedem Stichpunkt erstellt werden.
   Aufzählungen funktionieren analog.
 
