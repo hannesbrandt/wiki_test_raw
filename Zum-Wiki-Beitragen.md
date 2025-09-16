@@ -10,3 +10,4 @@ Um zum Wiki beizutragen muss einmalig das Setup durchgeführt werden, bevor man 
    Falls nicht bereits automatisch geschehen, trage als Owner den eigenen Github-Account ein.
 
 ## Einen Beitrag erstellen
+ 
