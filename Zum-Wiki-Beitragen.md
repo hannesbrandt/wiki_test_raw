@@ -60,11 +60,6 @@ Für weitere Informationen empfehlen wir den
 - Überschriften können mittels `# ` vor der Überschrift erstellt werden.
   Unterüberschriften werden analog mit `##`, `###`, usw, erstellt.
 
-      # Überschrift
-
-   wird zu
-
-   <h1> Überschrift
 - Listen können mit einem `- ` vor jedem Stichpunkt erstellt werden.
   Aufzählungen funktionieren analog.
 
@@ -77,10 +72,17 @@ Für weitere Informationen empfehlen wir den
    2. Zweiter Schritt
 
 - Um Wörter hervorzuheben, zum Beispiel Code oder Felder auf einer Webseite,
-  kann das Wort in `` ` `` eingefasst werden.
+  kann das Wort mit `` ` `` eingeklammert werden.
 
       Dieses `Wort` wird hervorgehoben.
 
    wird zu
 
    Dieses `Wort` wird hervorgehoben.
+- Mathematische Ausdrücke können mit `$` eingeklammert werden.
+
+      $5^2$
+
+   wird zu
+
+   $5^2$
